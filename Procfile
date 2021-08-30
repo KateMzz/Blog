@@ -1,1 +1,1 @@
-web: guinicorn d_prject.wsgi
+web: guinicorn katemzzawesomeapp.wsgi
